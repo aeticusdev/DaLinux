@@ -1,0 +1,5 @@
+NAME="DaLinux"
+VERSION="1.0"
+ID=dalinux
+PRETTY_NAME="DaLinux 1.0"
+HOME_URL="https://github.com/aeticus/dalinux"

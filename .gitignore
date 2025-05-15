@@ -1,0 +1,25 @@
+# Build artifacts and temporary files
+build/
+iso/
+initrd/
+dalinux.iso
+*.o
+*.a
+*.log
+*.gz
+*.xz
+*.tar
+*.tgz
+
+# Source downloads
+sources/
+
+# Editor and OS files
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Environment and dependency files
+.env
+*.bak

@@ -1,0 +1,2 @@
+#!/bin/sh
+exec "${REALGCC:-gcc}" "$@" -specs "/mnt/sdc1/dalinux-build/rootfs/usr/lib/musl-gcc.specs"
